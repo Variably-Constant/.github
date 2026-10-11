@@ -48,20 +48,12 @@ Cross-context channel over memory-mapped files. Lock-free, adaptive, and disk-pe
 K-aware, NUMA-aware work-stealing scheduler with extended Flynn taxonomy dispatch.  
 **Languages / interfaces:** Rust  
 
-### [Wgpu](https://github.com/Variably-Constant/Wgpu)
-GPU compute, rendering, and shader tools for PowerShell via wgpu.  
-**Languages / interfaces:** PowerShell · Rust  
-
 ### [SecureFetch](https://github.com/Variably-Constant/SecureFetch)
 HTTPS from PowerShell over TLS 1.3 with the X25519MLKEM768 post-quantum hybrid key exchange.  
 **Languages / interfaces:** PowerShell  
 
 ### [Zstd](https://github.com/Variably-Constant/Zstd)
 Zstandard compression module for PowerShell.  
-**Languages / interfaces:** PowerShell  
-
-### [PWRS-GUI](https://github.com/Variably-Constant/PWRS-GUI)
-Windows, dialogs, and grids for PowerShell, rendered on the GPU.  
 **Languages / interfaces:** PowerShell  
 
 ### [PWRSWriteColorEX](https://github.com/Variably-Constant/PWRSWriteColorEX)
