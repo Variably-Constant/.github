@@ -24,7 +24,7 @@ Rust bindings for writing PowerShell binary modules, in the spirit of PyO3.
 **Languages / runtimes:** Rust · PowerShell 7.4+ · Windows PowerShell 5.1  
 No .NET SDK required. Cmdlets, classes, providers, and more are defined in Rust and compiled into native modules.
 
-### [trex](https://github.com/Variably-Constant/trex)
+### [TREX](https://github.com/Variably-Constant/trex)
 Token-Regular EXpression — a regex-shaped pattern language over typed tokens, evaluated by derivatives.  
 **Languages / interfaces:** Rust · Python · PowerShell · CLI  
 Supports typed token matching, rewrites, redaction, and high-performance scanning without backtracking.
